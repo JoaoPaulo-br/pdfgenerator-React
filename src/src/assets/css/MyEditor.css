@@ -1,0 +1,38 @@
+form {
+    display: inline;
+}
+textarea {
+    margin: 1% 1% 1% 1%;
+    border: 1px solid gray;
+    border-radius: 5px;  
+}
+
+button {
+    margin: 1% 5% 1% 15%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input[type="submit"]{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.modal-90w {
+    width: 52vw;    /* Occupy the 90% of the screen width */
+    max-width: 52vw;
+    height: 90vh;
+    max-height: 90vh;
+}
